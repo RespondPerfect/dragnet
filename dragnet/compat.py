@@ -24,4 +24,4 @@ from sklearn import __version__ as sklearn_version
 if '0.15.2' <= sklearn_version <= '0.17.1':
     sklearn_path = 'sklearn_0.15.2_0.17.1'
 elif sklearn_version >= '0.18.0':
-    sklearn_path = 'sklearn_0.18.0'
+    sklearn_path = 'sklearn_0.18.1'
